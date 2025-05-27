@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IAL9cMv38pU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.fernandes\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
