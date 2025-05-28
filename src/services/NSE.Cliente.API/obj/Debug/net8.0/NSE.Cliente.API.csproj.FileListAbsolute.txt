@@ -34,3 +34,4 @@ C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\servi
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Cliente.API\obj\Debug\net8.0\NSE.Cliente.API.pdb
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Cliente.API\obj\Debug\net8.0\NSE.Cliente.API.genruntimeconfig.cache
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Cliente.API\obj\Debug\net8.0\ref\NSE.Cliente.API.dll
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Cliente.API\obj\Debug\net8.0\NSE.Cliente.API.sourcelink.json

@@ -34,3 +34,4 @@ C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\servi
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\net8.0\NSE.Pagamento.API.pdb
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\net8.0\NSE.Pagamento.API.genruntimeconfig.cache
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\net8.0\ref\NSE.Pagamento.API.dll
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\net8.0\NSE.Pagamento.API.sourcelink.json

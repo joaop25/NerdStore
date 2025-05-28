@@ -34,3 +34,4 @@ C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\servi
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\net8.0\NSE.Pedido.API.pdb
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\net8.0\NSE.Pedido.API.genruntimeconfig.cache
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\net8.0\ref\NSE.Pedido.API.dll
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\net8.0\NSE.Pedido.API.sourcelink.json
