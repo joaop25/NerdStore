@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = NSE.Bff.Compras
+build_property.ProjectDir = C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\api gateways\NSE.Bff.Compras\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

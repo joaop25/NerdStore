@@ -1,0 +1,13 @@
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.deps.json
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.AssemblyReference.cache
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfoInputs.cache
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfo.cs
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.Mess.4CC54AFA.Up2Date
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.pdb

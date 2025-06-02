@@ -1,0 +1,13 @@
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.deps.json
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfo.cs
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebA.8F1440D5.Up2Date
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\Desenvolvedor.Io - Aula - NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb

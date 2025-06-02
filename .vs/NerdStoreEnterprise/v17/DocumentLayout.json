@@ -1,0 +1,690 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\controllers\\identidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\controllers\\identidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\views\\identidade\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\views\\identidade\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\views\\identidade\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\views\\identidade\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\communication\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\communication\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\messages\\integration\\usuarioregistradointegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\messages\\integration\\usuarioregistradointegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\messages\\integration\\pedidoiniciadointegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\messages\\integration\\pedidoiniciadointegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\messages\\integration\\pedidobaixadoestoqueintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\messages\\integration\\pedidobaixadoestoqueintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\messages\\integration\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\messages\\integration\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\messages\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\messages\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\domainobjects\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\domainobjects\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\domainobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\domainobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\messages\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\messages\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\messages\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\messages\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.core\\messages\\integration\\pedidoautorizadointegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1468795-2BF8-47D6-A2D5-676713CAB112}|src\\building blocks\\NSE.Core\\NSE.Core.csproj|solutionrelative:src\\building blocks\\nse.core\\messages\\integration\\pedidoautorizadointegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC437B3-3CE2-455B-9E4E-30BA2955E116}|src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.messagebus\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC437B3-3CE2-455B-9E4E-30BA2955E116}|src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj|solutionrelative:src\\building blocks\\nse.messagebus\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC437B3-3CE2-455B-9E4E-30BA2955E116}|src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.messagebus\\dependencyinjectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC437B3-3CE2-455B-9E4E-30BA2955E116}|src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj|solutionrelative:src\\building blocks\\nse.messagebus\\dependencyinjectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC437B3-3CE2-455B-9E4E-30BA2955E116}|src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.messagebus\\nse.messagebus.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9BC437B3-3CE2-455B-9E4E-30BA2955E116}|src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj|solutionrelative:src\\building blocks\\nse.messagebus\\nse.messagebus.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\configuration\\messagebusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\configuration\\messagebusconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD20E369-FC17-48F1-BA94-2BDB9ED9EE2F}|src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.webapi.core\\usuario\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD20E369-FC17-48F1-BA94-2BDB9ED9EE2F}|src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj|solutionrelative:src\\building blocks\\nse.webapi.core\\usuario\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD20E369-FC17-48F1-BA94-2BDB9ED9EE2F}|src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.webapi.core\\usuario\\iaspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD20E369-FC17-48F1-BA94-2BDB9ED9EE2F}|src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj|solutionrelative:src\\building blocks\\nse.webapi.core\\usuario\\iaspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD20E369-FC17-48F1-BA94-2BDB9ED9EE2F}|src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\building blocks\\nse.webapi.core\\usuario\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD20E369-FC17-48F1-BA94-2BDB9ED9EE2F}|src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj|solutionrelative:src\\building blocks\\nse.webapi.core\\usuario\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\configuration\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\configuration\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\extensions\\identitymensagensportugues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\extensions\\identitymensagensportugues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\services\\nse.identidade.api\\models\\userviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C7BF5B-9716-45DB-AE14-FA9B7DB9A519}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\models\\userviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4032D4-7AEB-49C7-A551-F5B84D3945BB}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039CEF58-DEFA-441E-AC7D-23FAE492A3D2}|src\\api gateways\\NSE.Bff.Compras\\NSE.Bff.Compras.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\api gateways\\nse.bff.compras\\services\\grpc\\carrinhogrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039CEF58-DEFA-441E-AC7D-23FAE492A3D2}|src\\api gateways\\NSE.Bff.Compras\\NSE.Bff.Compras.csproj|solutionrelative:src\\api gateways\\nse.bff.compras\\services\\grpc\\carrinhogrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039CEF58-DEFA-441E-AC7D-23FAE492A3D2}|src\\api gateways\\NSE.Bff.Compras\\NSE.Bff.Compras.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\api gateways\\nse.bff.compras\\services\\grpc\\grpcserviceinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039CEF58-DEFA-441E-AC7D-23FAE492A3D2}|src\\api gateways\\NSE.Bff.Compras\\NSE.Bff.Compras.csproj|solutionrelative:src\\api gateways\\nse.bff.compras\\services\\grpc\\grpcserviceinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039CEF58-DEFA-441E-AC7D-23FAE492A3D2}|src\\api gateways\\NSE.Bff.Compras\\NSE.Bff.Compras.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\desenvolvedor.io - aula - nerdstoreenterprise\\src\\api gateways\\nse.bff.compras\\configuration\\grpcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039CEF58-DEFA-441E-AC7D-23FAE492A3D2}|src\\api gateways\\NSE.Bff.Compras\\NSE.Bff.Compras.csproj|solutionrelative:src\\api gateways\\nse.bff.compras\\configuration\\grpcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Identidade\\Registro.cshtml",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Views\\Identidade\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Identidade\\Registro.cshtml",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Views\\Identidade\\Registro.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T22:22:13.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T22:22:08.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\MainController.cs",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:19:43.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\IdentidadeController.cs",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Controllers\\IdentidadeController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\IdentidadeController.cs",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Controllers\\IdentidadeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:19:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Communication\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\Communication\\ResponseResult.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Communication\\ResponseResult.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\Communication\\ResponseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:17:15.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Models\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Models\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Models\\UsuarioViewModel.cs",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Models\\UsuarioViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:15:02.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRegistradoIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Integration\\UsuarioRegistradoIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\Messages\\Integration\\UsuarioRegistradoIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Integration\\UsuarioRegistradoIntegrationEvent.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\Messages\\Integration\\UsuarioRegistradoIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:56:09.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Event.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\Messages\\Event.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Event.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\Messages\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:47:36.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Integration\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\Messages\\Integration\\IntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Integration\\IntegrationEvent.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\Messages\\Integration\\IntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:45:20.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PedidoBaixadoEstoqueIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoBaixadoEstoqueIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoBaixadoEstoqueIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoBaixadoEstoqueIntegrationEvent.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoBaixadoEstoqueIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:46:36.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoIniciadoIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoIniciadoIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoIniciadoIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoIniciadoIntegrationEvent.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoIniciadoIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:46:37.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\DomainObjects\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\DomainObjects\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\DomainObjects\\IAggregateRoot.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\DomainObjects\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:53:23.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\DomainObjects\\Email.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\DomainObjects\\Email.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\DomainObjects\\Email.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\DomainObjects\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:52:33.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Data\\IRepository.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:50:49.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\CommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\Messages\\CommandHandler.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\CommandHandler.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\Messages\\CommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:48:25.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Command.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\Messages\\Command.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Command.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\Messages\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:48:50.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PedidoAutorizadoIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoAutorizadoIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoAutorizadoIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoAutorizadoIntegrationEvent.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.Core\\Messages\\Integration\\PedidoAutorizadoIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:46:35.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMessageBus.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.MessageBus\\IMessageBus.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.MessageBus\\IMessageBus.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.MessageBus\\IMessageBus.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.MessageBus\\IMessageBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:42:46.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.MessageBus\\DependencyInjectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.MessageBus\\DependencyInjectionExtensions.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.MessageBus\\DependencyInjectionExtensions.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.MessageBus\\DependencyInjectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:40:17.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NSE.MessageBus",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj",
+              "RelativeToolTip": "src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-31T11:40:47.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AspNetUser.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\Usuario\\AspNetUser.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.WebAPI.Core\\Usuario\\AspNetUser.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\Usuario\\AspNetUser.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.WebAPI.Core\\Usuario\\AspNetUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:14:11.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:05:34.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwIoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:48:37.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:05:39.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Startup.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Startup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:05:14.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageBusConfig.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\MessageBusConfig.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Configuration\\MessageBusConfig.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\MessageBusConfig.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Configuration\\MessageBusConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:05:41.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAspNetUser.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\Usuario\\IAspNetUser.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.WebAPI.Core\\Usuario\\IAspNetUser.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\Usuario\\IAspNetUser.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.WebAPI.Core\\Usuario\\IAspNetUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:17:45.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\Usuario\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.WebAPI.Core\\Usuario\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\Usuario\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.WebAPI.Core\\Usuario\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:13:49.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:49:58.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IdentityMensagensPortugues.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Extensions\\IdentityMensagensPortugues.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Extensions\\IdentityMensagensPortugues.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Extensions\\IdentityMensagensPortugues.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Extensions\\IdentityMensagensPortugues.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:40:51.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:40:10.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Program.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Program.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:05:54.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Configuration\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\SwaggerConfig.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Configuration\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:05:46.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Models\\UserViewModels.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Models\\UserViewModels.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Models\\UserViewModels.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Models\\UserViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:06:47.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:05:42.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CatalogoController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\CatalogoController.cs",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Controllers\\CatalogoController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\CatalogoController.cs",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Controllers\\CatalogoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:05:25.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CarrinhoController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\CarrinhoController.cs",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Controllers\\CarrinhoController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\CarrinhoController.cs",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Controllers\\CarrinhoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:05:22.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CarrinhoGrpcService.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\api gateways\\NSE.Bff.Compras\\Services\\gRPC\\CarrinhoGrpcService.cs",
+              "RelativeDocumentMoniker": "src\\api gateways\\NSE.Bff.Compras\\Services\\gRPC\\CarrinhoGrpcService.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\api gateways\\NSE.Bff.Compras\\Services\\gRPC\\CarrinhoGrpcService.cs",
+              "RelativeToolTip": "src\\api gateways\\NSE.Bff.Compras\\Services\\gRPC\\CarrinhoGrpcService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:05:00.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GrpcServiceInterceptor.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\api gateways\\NSE.Bff.Compras\\Services\\gRPC\\GrpcServiceInterceptor.cs",
+              "RelativeDocumentMoniker": "src\\api gateways\\NSE.Bff.Compras\\Services\\gRPC\\GrpcServiceInterceptor.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\api gateways\\NSE.Bff.Compras\\Services\\gRPC\\GrpcServiceInterceptor.cs",
+              "RelativeToolTip": "src\\api gateways\\NSE.Bff.Compras\\Services\\gRPC\\GrpcServiceInterceptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:04:55.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GrpcConfig.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\api gateways\\NSE.Bff.Compras\\Configuration\\GrpcConfig.cs",
+              "RelativeDocumentMoniker": "src\\api gateways\\NSE.Bff.Compras\\Configuration\\GrpcConfig.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\Desenvolvedor.Io - Aula - NerdStoreEnterprise\\src\\api gateways\\NSE.Bff.Compras\\Configuration\\GrpcConfig.cs",
+              "RelativeToolTip": "src\\api gateways\\NSE.Bff.Compras\\Configuration\\GrpcConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:04:42.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
